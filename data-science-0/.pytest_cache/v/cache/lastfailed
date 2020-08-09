@@ -1,0 +1,13 @@
+{
+  "test_main.py::test_q1": true,
+  "test_main.py::test_q10": true,
+  "test_main.py::test_q2": true,
+  "test_main.py::test_q3": true,
+  "test_main.py::test_q4": true,
+  "test_main.py::test_q5": true,
+  "test_main.py::test_q6": true,
+  "test_main.py::test_q7": true,
+  "test_main.py::test_q8": true,
+  "test_main.py::test_q9": true,
+  "test_submit.py::test_q3": true
+}
